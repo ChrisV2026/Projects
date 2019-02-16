@@ -1,16 +1,25 @@
 # Projects
-Programming Project that I have worked on since I have started programming.
+A Selection of Programming Project that I have worked on since I have started programming.
 
 Index
+
+Blazing Seal (C)\
+This project is inspired by the Ninetendo Game Fire Emblem, called Blazing Seal complete with graphics. This is a turn based strategy game where users will select their characters and battle on a selected map which is graphically displayed. Including story mode and a 1 player vs CPU mode to the game is under development.
 
 Flattening 2D Linked List (C)\
 Randomly generates a 2D linked list that is in increasing order and flattens it into a singly linked list that is ordered in increasing order.
 
 Genetic Algorithm (C)\
-Takes a randomly created image and uses a genetic algorithm to mutate the picture with the end result being the inputed target picture.
+Take in an image and modifies a randomly generated image using a genetic algorithm to mutate it into the inputted image.
 
 Matrix Solver (C)\
-Randomly generates a matrix of a given inputed size and returns the solutions to the matrix using Gaussian Elimination.
+This program randomly generates a matrix of a inputted size (./list 3 2 for a matrix of 3 by 2) and determines whether the matrix is solvable or not and returns the solution matrix. This done by Gaussian Elmination. 
 
 Bubble Sort Graphic (Assembly)\
-An assembly project showing the steps of bubble sort on a randomized array of length 1-9 chosen by the user.
+An assembly project (NASM) graphically showing the steps taken when doing bubble sort on a randomized array of length 1-9 chosen by the user.
+
+Wheel of Fortune (Python)\
+This program is a implementation of the game Wheel Of Fortune with graphics to display score, letters that have been chosen and buttons to select letter. This game can be played in 1 - player mode vs a computer or 2 - player mode. Score are tracked for continious play to decide who is the best.
+
+Triangle Classifier (Python)\
+This program determines the area, type of triangle and more with given input of the coordinates of the vertices. This is done through implementation of mathematical knowledge such as Heron's formula.
