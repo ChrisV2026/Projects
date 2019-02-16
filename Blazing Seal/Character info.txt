@@ -1,0 +1,14 @@
+GG	A	LN 	60	20	5	19	20	12	24	8	5	Grand General
+BK	S	AN	65	22	2	16	19	20	11	15	6	Berserker
+SS	S	SN	49	17	0	22	15	23	12	9	6	Sword Samurai
+DS	M	TN	56	6	19	16	14	16	12	14	6	Dark Sorcerer
+RG	S	BN	53	17	1	25	16	19	15	13	6	Ranger
+WC	H	AT	58	16	14	15	17	16	14	17	6	Warchief
+CR	S	LB	51	16	9	17	15	15	17	10	6	Crusader
+AC	S	AW	54	18	26	15	15	14	15	15	6	Acolyte
+AS	S	SB	48	18	7	20	16	19	14	12	7	Assassin
+SG	H	ST	45	17	16	18	18	18	10	16	7	Strategist
+PK	F	LW	50	16	22	14	15	24	13	15	8	Pegasus Knight
+DK	F	AS	55	19	4	18	17	16	18	12	8	Draconic Knight
+PT	S	WN	42	3	32	14	17	15	8	11	6	Priestess
+GK	A	LS	52	18	3	17	16	22	15	16	7	Demigriff Knight

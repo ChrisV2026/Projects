@@ -1,0 +1,31 @@
+LP	1	0	8	100	0	165	N	Ironbark
+LP	1	2	7	80	0	155	N	Yew
+LP	1	2	8	75	5	170	N	Killer Lance
+LP	1	0	9	85	0	165	N	Xaril
+LP	1	0	10	80	0	170	N	Zero
+SP	1	0	7	95	10	180	N	Dirge
+SP	1	2	11	80	-100	175	N	Strom
+SM	1	2	9	85	0	165	N	Requiem
+SP	1	0	9	80	0	160	N	Celeste
+SP	1	0	10	70	0	170	N	Nightbane
+AP	1	0	7	80	5	165	N	Orenmir
+AP	1	0	8	75	5	170	N	Whirlwind
+AP	1	2	8	75	5	180	N	Hurricane
+AP	1	0	9	70	10	180	N	Malice
+AP	1	0	12	65	10	195	N	Lazarus
+TM	1	2	8	80	0	160	F	Gale
+TM	1	2	11	80	-100	175	N	Veilfire
+TM	1	2	9	75	5	170	N	Fire
+TM	1	2	7	85	5	165	F	Thunder
+TM	1	0	10	70	20	210	F	Blizzard
+BP	1	2	5	100	0	150	F	Quillshooter
+BM	2	0	6	85	0	150	F	Ebon
+BP	2	0	8	85	0	160	F	Abyssal
+BP	2	0	9	65	10	180	F	Piercer
+BP	2	0	7	80	0	155	F	Joker
+WM	1	0	5	100	-100 	150	N	Heal
+LP	1	0	1	100	-100	0	N	Log
+SP	1	0	1	100	-100	0	N	Branch
+TP	1	0	1	100	-100	0	N	Old Book
+BP	1	0	1	100	-100	0	N	Slack Bow
+AP	1	0	1	100	-100	0	N	Laddle
