@@ -24,7 +24,7 @@ This program is a implementation of the game Wheel Of Fortune with graphics to d
 Triangle Classifier (Python)\
 This program determines the area, type of triangle and more with given input of the coordinates of the vertices. This is done through implementation of mathematical knowledge such as Heron's formula.
 
-Anti Cargo Theft\
+Anti Cargo Theft (Python, Makefile, Latex, Doxygen)\
 The program and project pitch of our idea to solve Canada Cartage's Challenge at the Delta Hacks V 2019. 
 Below is a link to our project idea and the repo with our code and pitch
 
