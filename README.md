@@ -23,7 +23,7 @@ Genetic Algorithm (C)\
 Take in an image and modifies a randomly generated image using a genetic algorithm to mutate it into the inputted image.
 
 Matrix Solver (C)\
-This program randomly generates a matrix of a inputted size (./list 3 2 for a matrix of 3 by 2) and determines whether the matrix is solvable or not and returns the solution matrix. This done by Gaussian Elmination. 
+This program randomly generates a matrix of a inputted size and determines whether the matrix is solvable or not and returns the solution matrix. This done by Gaussian Elmination. 
 
 Bubble Sort Graphic (Assembly)\
 An assembly project (NASM) graphically showing the steps taken when doing bubble sort on a randomized array of length 1-9 chosen by the user.
