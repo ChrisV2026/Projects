@@ -7,15 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8306F27C226FCE3D00F4E0C4 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8306F27B226FCE3D00F4E0C4 /* HomeViewController.swift */; };
+		8306F27E226FDE0500F4E0C4 /* PopUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8306F27D226FDE0500F4E0C4 /* PopUpViewController.swift */; };
+		8306F280226FEEFC00F4E0C4 /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 8306F27F226FEEFC00F4E0C4 /* Logo.png */; };
+		8306F2852270006300F4E0C4 /* simic.png in Resources */ = {isa = PBXBuildFile; fileRef = 8306F2812270006300F4E0C4 /* simic.png */; };
+		8306F2872270006300F4E0C4 /* dot.png in Resources */ = {isa = PBXBuildFile; fileRef = 8306F2832270006300F4E0C4 /* dot.png */; };
+		8306F2882270006300F4E0C4 /* atarka.png in Resources */ = {isa = PBXBuildFile; fileRef = 8306F2842270006300F4E0C4 /* atarka.png */; };
+		8306F28C22703DBE00F4E0C4 /* Izzet logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 8306F28B22703DBE00F4E0C4 /* Izzet logo.png */; };
+		8306F28E22703E1800F4E0C4 /* izzet.png in Resources */ = {isa = PBXBuildFile; fileRef = 8306F28D22703E1800F4E0C4 /* izzet.png */; };
+		8306F29022704C0A00F4E0C4 /* khans.png in Resources */ = {isa = PBXBuildFile; fileRef = 8306F28F22704C0900F4E0C4 /* khans.png */; };
 		8332E8F02268FCB100EA8235 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8332E8EF2268FCB100EA8235 /* AppDelegate.swift */; };
 		8332E8F22268FCB100EA8235 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8332E8F12268FCB100EA8235 /* ViewController.swift */; };
 		8332E8F52268FCB100EA8235 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8332E8F32268FCB100EA8235 /* Main.storyboard */; };
 		8332E8F82268FCB200EA8235 /* Connect_Four.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8332E8F62268FCB200EA8235 /* Connect_Four.xcdatamodeld */; };
 		8332E8FA2268FCB200EA8235 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8332E8F92268FCB200EA8235 /* Assets.xcassets */; };
 		8332E8FD2268FCB200EA8235 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8332E8FB2268FCB200EA8235 /* LaunchScreen.storyboard */; };
+		8332E9092268FEEC00EA8235 /* red circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 8332E9042268FEEB00EA8235 /* red circle.png */; };
+		8332E90B2268FEEC00EA8235 /* green circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 8332E9062268FEEC00EA8235 /* green circle.png */; };
+		8332E90C2268FEEC00EA8235 /* blue circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 8332E9072268FEEC00EA8235 /* blue circle.png */; };
+		8332E90D2268FEEC00EA8235 /* orange circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 8332E9082268FEEC00EA8235 /* orange circle.png */; };
+		833D72AE227AC7AD0056F721 /* ComOpp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833D72AD227AC7AD0056F721 /* ComOpp.swift */; };
+		8348295F226C1C26006EF6EE /* orange tarkir.png in Resources */ = {isa = PBXBuildFile; fileRef = 8348295E226C1C26006EF6EE /* orange tarkir.png */; };
+		83F2EBC922697D720045B229 /* c4board.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F2EBC822697D720045B229 /* c4board.png */; };
+		83F2EBCB22699B830045B229 /* playagain.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F2EBCA22699B820045B229 /* playagain.png */; };
+		83FCEA3F227059AB0097D1DB /* Selesnya.png in Resources */ = {isa = PBXBuildFile; fileRef = 83FCEA3E227059AB0097D1DB /* Selesnya.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8306F27B226FCE3D00F4E0C4 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		8306F27D226FDE0500F4E0C4 /* PopUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpViewController.swift; sourceTree = "<group>"; };
+		8306F27F226FEEFC00F4E0C4 /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo.png; sourceTree = "<group>"; };
+		8306F2812270006300F4E0C4 /* simic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = simic.png; path = "../../../../../Desktop/App pictures/simic.png"; sourceTree = "<group>"; };
+		8306F2832270006300F4E0C4 /* dot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dot.png; path = "../../../../../Desktop/App pictures/dot.png"; sourceTree = "<group>"; };
+		8306F2842270006300F4E0C4 /* atarka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = atarka.png; path = "../../../../../Desktop/App pictures/atarka.png"; sourceTree = "<group>"; };
+		8306F28B22703DBE00F4E0C4 /* Izzet logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Izzet logo.png"; path = "../../../../../Desktop/App pictures/Izzet logo.png"; sourceTree = "<group>"; };
+		8306F28D22703E1800F4E0C4 /* izzet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = izzet.png; sourceTree = "<group>"; };
+		8306F28F22704C0900F4E0C4 /* khans.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = khans.png; sourceTree = "<group>"; };
 		8332E8EC2268FCB100EA8235 /* Connect Four.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Connect Four.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8332E8EF2268FCB100EA8235 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8332E8F12268FCB100EA8235 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +51,15 @@
 		8332E8F92268FCB200EA8235 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8332E8FC2268FCB200EA8235 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8332E8FE2268FCB200EA8235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8332E9042268FEEB00EA8235 /* red circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "red circle.png"; sourceTree = "<group>"; };
+		8332E9062268FEEC00EA8235 /* green circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "green circle.png"; sourceTree = "<group>"; };
+		8332E9072268FEEC00EA8235 /* blue circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "blue circle.png"; sourceTree = "<group>"; };
+		8332E9082268FEEC00EA8235 /* orange circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "orange circle.png"; sourceTree = "<group>"; };
+		833D72AD227AC7AD0056F721 /* ComOpp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComOpp.swift; sourceTree = "<group>"; };
+		8348295E226C1C26006EF6EE /* orange tarkir.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "orange tarkir.png"; sourceTree = "<group>"; };
+		83F2EBC822697D720045B229 /* c4board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = c4board.png; sourceTree = "<group>"; };
+		83F2EBCA22699B820045B229 /* playagain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playagain.png; sourceTree = "<group>"; };
+		83FCEA3E227059AB0097D1DB /* Selesnya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Selesnya.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +95,28 @@
 				8332E8EF2268FCB100EA8235 /* AppDelegate.swift */,
 				8332E8F12268FCB100EA8235 /* ViewController.swift */,
 				8332E8F32268FCB100EA8235 /* Main.storyboard */,
+				8306F27D226FDE0500F4E0C4 /* PopUpViewController.swift */,
+				8306F27B226FCE3D00F4E0C4 /* HomeViewController.swift */,
+				833D72AD227AC7AD0056F721 /* ComOpp.swift */,
 				8332E8F92268FCB200EA8235 /* Assets.xcassets */,
 				8332E8FB2268FCB200EA8235 /* LaunchScreen.storyboard */,
 				8332E8FE2268FCB200EA8235 /* Info.plist */,
 				8332E8F62268FCB200EA8235 /* Connect_Four.xcdatamodeld */,
+				8332E9072268FEEC00EA8235 /* blue circle.png */,
+				8332E9062268FEEC00EA8235 /* green circle.png */,
+				8332E9082268FEEC00EA8235 /* orange circle.png */,
+				8332E9042268FEEB00EA8235 /* red circle.png */,
+				83F2EBC822697D720045B229 /* c4board.png */,
+				83F2EBCA22699B820045B229 /* playagain.png */,
+				8306F2842270006300F4E0C4 /* atarka.png */,
+				8306F28B22703DBE00F4E0C4 /* Izzet logo.png */,
+				8306F28D22703E1800F4E0C4 /* izzet.png */,
+				8306F2832270006300F4E0C4 /* dot.png */,
+				8306F2812270006300F4E0C4 /* simic.png */,
+				8348295E226C1C26006EF6EE /* orange tarkir.png */,
+				8306F28F22704C0900F4E0C4 /* khans.png */,
+				8306F27F226FEEFC00F4E0C4 /* Logo.png */,
+				83FCEA3E227059AB0097D1DB /* Selesnya.png */,
 			);
 			path = "Connect Four";
 			sourceTree = "<group>";
@@ -125,9 +179,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8306F29022704C0A00F4E0C4 /* khans.png in Resources */,
+				8332E90C2268FEEC00EA8235 /* blue circle.png in Resources */,
+				8306F2872270006300F4E0C4 /* dot.png in Resources */,
+				8306F28E22703E1800F4E0C4 /* izzet.png in Resources */,
+				8306F2852270006300F4E0C4 /* simic.png in Resources */,
+				8332E90B2268FEEC00EA8235 /* green circle.png in Resources */,
+				8332E90D2268FEEC00EA8235 /* orange circle.png in Resources */,
+				8348295F226C1C26006EF6EE /* orange tarkir.png in Resources */,
 				8332E8FD2268FCB200EA8235 /* LaunchScreen.storyboard in Resources */,
 				8332E8FA2268FCB200EA8235 /* Assets.xcassets in Resources */,
+				8306F2882270006300F4E0C4 /* atarka.png in Resources */,
+				8306F28C22703DBE00F4E0C4 /* Izzet logo.png in Resources */,
+				83F2EBC922697D720045B229 /* c4board.png in Resources */,
+				8332E9092268FEEC00EA8235 /* red circle.png in Resources */,
+				8306F280226FEEFC00F4E0C4 /* Logo.png in Resources */,
 				8332E8F52268FCB100EA8235 /* Main.storyboard in Resources */,
+				83F2EBCB22699B830045B229 /* playagain.png in Resources */,
+				83FCEA3F227059AB0097D1DB /* Selesnya.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +207,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8306F27E226FDE0500F4E0C4 /* PopUpViewController.swift in Sources */,
+				833D72AE227AC7AD0056F721 /* ComOpp.swift in Sources */,
 				8332E8F82268FCB200EA8235 /* Connect_Four.xcdatamodeld in Sources */,
 				8332E8F22268FCB100EA8235 /* ViewController.swift in Sources */,
 				8332E8F02268FCB100EA8235 /* AppDelegate.swift in Sources */,
+				8306F27C226FCE3D00F4E0C4 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
