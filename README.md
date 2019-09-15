@@ -37,5 +37,5 @@ This program determines the area, type of triangle and more with given input of 
 Connect Four (Swift)\
 This app was made for an Iphone X and is based off of Connect Four with the original game mode along with another game modde for the connect four game with different rules. This game allows you choose your character and keeps scores for multiple consecutive games.
 
-Dating Application (Java)\
+Dating Application (Java, MySQL)\
 This application is a dating application that would match users based on their anime likes. It is to help people who are less social find people who share similar interests based on their anime show that they watch. This application stores its users information in a SQL database, storing the anime shows that they watch along with their rating and their matches and location. This app uses Djikstra's shortest path algorithm with weighted pathes to find the people who are closest to each other and have the most in common to determine potential mates.
