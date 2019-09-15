@@ -19,7 +19,7 @@ This project is inspired by the Ninetendo Game Fire Emblem, called Blazing Seal 
 Flattening 2D Linked List (C)\
 Randomly generates a 2D linked list that is in increasing order and flattens it into a singly linked list that is ordered in increasing order.
 
-Genetic Algorithm (C)\
+Photo Mutation Genetic Algorithm (C)\
 Take in an image and modifies a randomly generated image using a genetic algorithm to mutate it into the inputted image.
 
 Matrix Solver (C)\
