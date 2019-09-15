@@ -33,3 +33,6 @@ This program is a implementation of the game Wheel Of Fortune with graphics to d
 
 Triangle Classifier (Python)\
 This program determines the area, type of triangle and more with given input of the coordinates of the vertices. This is done through implementation of mathematical knowledge such as Heron's formula.
+
+Connect Four (Swift)\
+This app was made for an Iphone X and is based off of Connect Four with the original game mode along with another game modde for the connect four game with different rules. This game allows you choose your character and keeps scores for multiple consecutive games.
