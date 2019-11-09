@@ -3,6 +3,11 @@ A Selection of Programming Project that I have worked on since I have started pr
 
 Index
 
+McMaster Engineering Competition (Python, Django)\
+The project idea was to speed up checkout times in our cafeteria and also cut down on food waste. Our idea involves kiosks, portion size meters and algorithms, along with personalized order recommendations tailored to the user based on past orders and with facial recognition software for faster login times to the kiosk.
+
+Repo: 
+
 Anti Cargo Theft (Python, Makefile, Latex, Doxygen)\
 The program and project pitch of our idea to solve Canada Cartage's Challenge at the Delta Hacks V 2019. 
 Below is a link to our project idea and the repo with our code and pitch.
