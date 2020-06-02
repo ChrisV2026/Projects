@@ -1,0 +1,104 @@
+\hypertarget{class_game_grid}{}\section{Game\+Grid Class Reference}
+\label{class_game_grid}\index{GameGrid@{GameGrid}}
+
+
+Class for the methods for regarding the gamegrid.  
+
+
+
+
+{\ttfamily \#include $<$Game\+Grid.\+h$>$}
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_game_grid_a0844b34c3f8bd3a41b0dff38ffb10f36}{Game\+Grid}} (string file\+\_\+name)
+\begin{DoxyCompactList}\small\item\em A constructor for the \mbox{\hyperlink{class_game_grid}{Game\+Grid}} which takes in a file to create the board according to the file. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{class_game_grid_af67b81833fc836276077ba8d928a0111}{get\+\_\+board\+Pos}} (int ind1, int ind2)
+\begin{DoxyCompactList}\small\item\em Getter method to return the value at a certain position on the board. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_game_grid_a9c207942c6e8c40a4f7735295e535e3e}{time\+\_\+travel}} (int gens)
+\begin{DoxyCompactList}\small\item\em Method to call next state a bunch of times based on inputted number of gens. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_game_grid_acc576de797d98d3dd1c9539002db9284}\label{class_game_grid_acc576de797d98d3dd1c9539002db9284}} 
+void \mbox{\hyperlink{class_game_grid_acc576de797d98d3dd1c9539002db9284}{show\+\_\+board}} ()
+\begin{DoxyCompactList}\small\item\em Displays the board on the console. \end{DoxyCompactList}\item 
+string \mbox{\hyperlink{class_game_grid_acea99c50b01e9e7c47ff4c23494efde1}{to\+String}} ()
+\begin{DoxyCompactList}\small\item\em A method to represent the board as a string. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Class for the methods for regarding the gamegrid. 
+
+changing the states of squares in the game grid 
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_game_grid_a0844b34c3f8bd3a41b0dff38ffb10f36}\label{class_game_grid_a0844b34c3f8bd3a41b0dff38ffb10f36}} 
+\index{GameGrid@{GameGrid}!GameGrid@{GameGrid}}
+\index{GameGrid@{GameGrid}!GameGrid@{GameGrid}}
+\subsubsection{\texorpdfstring{GameGrid()}{GameGrid()}}
+{\footnotesize\ttfamily Game\+Grid\+::\+Game\+Grid (\begin{DoxyParamCaption}\item[{string}]{file\+\_\+name }\end{DoxyParamCaption})}
+
+
+
+A constructor for the \mbox{\hyperlink{class_game_grid}{Game\+Grid}} which takes in a file to create the board according to the file. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em file\+\_\+name} & the name of the file that has that has the initial game state \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_game_grid_af67b81833fc836276077ba8d928a0111}\label{class_game_grid_af67b81833fc836276077ba8d928a0111}} 
+\index{GameGrid@{GameGrid}!get\_boardPos@{get\_boardPos}}
+\index{get\_boardPos@{get\_boardPos}!GameGrid@{GameGrid}}
+\subsubsection{\texorpdfstring{get\_boardPos()}{get\_boardPos()}}
+{\footnotesize\ttfamily bool Game\+Grid\+::get\+\_\+board\+Pos (\begin{DoxyParamCaption}\item[{int}]{ind1,  }\item[{int}]{ind2 }\end{DoxyParamCaption})}
+
+
+
+Getter method to return the value at a certain position on the board. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em ind1} & is the row index \\
+\hline
+{\em ind2} & is the column index \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+returns the bool at the specfic position 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_game_grid_a9c207942c6e8c40a4f7735295e535e3e}\label{class_game_grid_a9c207942c6e8c40a4f7735295e535e3e}} 
+\index{GameGrid@{GameGrid}!time\_travel@{time\_travel}}
+\index{time\_travel@{time\_travel}!GameGrid@{GameGrid}}
+\subsubsection{\texorpdfstring{time\_travel()}{time\_travel()}}
+{\footnotesize\ttfamily void Game\+Grid\+::time\+\_\+travel (\begin{DoxyParamCaption}\item[{int}]{gens }\end{DoxyParamCaption})}
+
+
+
+Method to call next state a bunch of times based on inputted number of gens. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em the} & number of states you would like to go through \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_game_grid_acea99c50b01e9e7c47ff4c23494efde1}\label{class_game_grid_acea99c50b01e9e7c47ff4c23494efde1}} 
+\index{GameGrid@{GameGrid}!toString@{toString}}
+\index{toString@{toString}!GameGrid@{GameGrid}}
+\subsubsection{\texorpdfstring{toString()}{toString()}}
+{\footnotesize\ttfamily string Game\+Grid\+::to\+String (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+A method to represent the board as a string. 
+
+\begin{DoxyReturn}{Returns}
+returns the string representation fo the board 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+include/Game\+Grid.\+h\end{DoxyCompactItemize}

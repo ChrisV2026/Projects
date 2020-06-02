@@ -1,0 +1,84 @@
+\hypertarget{class_read_write}{}\section{Read\+Write Class Reference}
+\label{class_read_write}\index{ReadWrite@{ReadWrite}}
+
+
+Class for the methods of reading and writing to a file for the game grids.  
+
+
+
+
+{\ttfamily \#include $<$Read\+Write.\+h$>$}
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_read_write_a09a19526aaaf1fe51d40cc6373215141}{Read\+Write}} (char $\ast$file\+\_\+name)
+\begin{DoxyCompactList}\small\item\em Constructor to the Class creating an object specific to the file you are reading from and writing to. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_read_write_a48aaf174d30259941f8bc28c7a097254}{write\+Grid}} (string str)
+\begin{DoxyCompactList}\small\item\em method to write a string representing the state of the grid to a file \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_read_write_aa254bc718dc3e9f29b314a305f2eee3f}{read\+Grid}} (bool grid\mbox{[}$\,$\mbox{]}\mbox{[}\mbox{\hyperlink{_read_write_8h_a70ed59adcb4159ac551058053e649640}{S\+I\+ZE}}\mbox{]})
+\begin{DoxyCompactList}\small\item\em method to read the grid from the inputed file and modify an array that is passed in \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Class for the methods of reading and writing to a file for the game grids. 
+
+Writes the current state of the board taken in as a string to a text file and reads a start state of the board 
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_read_write_a09a19526aaaf1fe51d40cc6373215141}\label{class_read_write_a09a19526aaaf1fe51d40cc6373215141}} 
+\index{ReadWrite@{ReadWrite}!ReadWrite@{ReadWrite}}
+\index{ReadWrite@{ReadWrite}!ReadWrite@{ReadWrite}}
+\subsubsection{\texorpdfstring{ReadWrite()}{ReadWrite()}}
+{\footnotesize\ttfamily Read\+Write\+::\+Read\+Write (\begin{DoxyParamCaption}\item[{char $\ast$}]{file\+\_\+name }\end{DoxyParamCaption})}
+
+
+
+Constructor to the Class creating an object specific to the file you are reading from and writing to. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em file\+\_\+name} & is the name of the file taken in as an array of characters \\
+\hline
+\end{DoxyParams}
+\begin{DoxyPostcond}{Postcondition}
+sets state variable to the name of the file 
+\end{DoxyPostcond}
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_read_write_aa254bc718dc3e9f29b314a305f2eee3f}\label{class_read_write_aa254bc718dc3e9f29b314a305f2eee3f}} 
+\index{ReadWrite@{ReadWrite}!readGrid@{readGrid}}
+\index{readGrid@{readGrid}!ReadWrite@{ReadWrite}}
+\subsubsection{\texorpdfstring{readGrid()}{readGrid()}}
+{\footnotesize\ttfamily void Read\+Write\+::read\+Grid (\begin{DoxyParamCaption}\item[{bool}]{grid\mbox{[}$\,$\mbox{]}\mbox{[}\+S\+I\+Z\+E\mbox{]} }\end{DoxyParamCaption})}
+
+
+
+method to read the grid from the inputed file and modify an array that is passed in 
+
+
+\begin{DoxyParams}{Parameters}
+{\em grid\mbox{[}$\,$\mbox{]}\mbox{[}$\,$\mbox{]}} & a 2D array of size S\+I\+ZE which is a constant defined in the module \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_read_write_a48aaf174d30259941f8bc28c7a097254}\label{class_read_write_a48aaf174d30259941f8bc28c7a097254}} 
+\index{ReadWrite@{ReadWrite}!writeGrid@{writeGrid}}
+\index{writeGrid@{writeGrid}!ReadWrite@{ReadWrite}}
+\subsubsection{\texorpdfstring{writeGrid()}{writeGrid()}}
+{\footnotesize\ttfamily void Read\+Write\+::write\+Grid (\begin{DoxyParamCaption}\item[{string}]{str }\end{DoxyParamCaption})}
+
+
+
+method to write a string representing the state of the grid to a file 
+
+
+\begin{DoxyParams}{Parameters}
+{\em str} & is the string representation of the game grid \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+include/\mbox{\hyperlink{_read_write_8h}{Read\+Write.\+h}}\end{DoxyCompactItemize}
