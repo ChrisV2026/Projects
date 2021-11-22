@@ -8,7 +8,8 @@ The project idea was to transition seniors from recording blood pressure data in
 
 Repo: https://github.com/Mostafathereal/Heart-at-rest
 
-
+Autonomocity for DeltaHacks VI (2020)\
+The project idea was to use camera that would be around the city to take in data and send it to cars, to make it a connected city vs having autonomous cars that would be like little islands on their own. We would use this data that they would collect to detect things like slippery road conditions (black ice with AI), be able to dynamically change speed limits based on weather and time of day to better suit traffic and also be able to help drivers know when it is safe to turn on blind turns.
 
 Repo: https://github.com/seiftobgy1999/Innovation-Factory-C-AV
 
