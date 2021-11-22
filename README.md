@@ -3,6 +3,11 @@ A Selection of Programming Project that I have worked on since I have started pr
 
 Index
 
+Heart-At-Rest for Delta Hacks VII (2021)\
+The project idea was to transition seniors from recording blood pressure data in journals to online. We created a mock online website to show our idea of how it would look alone with leveraging AI in order to run analysis on the data that would be inputted to detect things such as the risk of heart attacks in order to catch these potentially fatal events before they happen. We also came up with idea of extenting this project where the data would be shared with doctors immediately, with the paitents consent, so that doctors would be able to contact them if they think there are immediate problems and even be informed by the system if our AI believe the data should be reviewed, hopefully allowing for earlier detection of potentionally dangerous conditions. 
+
+Repo: https://github.com/Mostafathereal/Heart-at-rest
+
 Eat Efficient for McMaster Engineering Competition (Python, Django)\
 The project idea was to speed up checkout times in our cafeteria and also cut down on food waste. Our idea involves kiosks, portion size meters and algorithms, along with personalized order recommendations tailored to the user based on past orders and with facial recognition software for faster login times to the kiosk.
 
