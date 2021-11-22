@@ -8,6 +8,10 @@ The project idea was to transition seniors from recording blood pressure data in
 
 Repo: https://github.com/Mostafathereal/Heart-at-rest
 
+
+
+Repo: https://github.com/seiftobgy1999/Innovation-Factory-C-AV
+
 Eat Efficient for McMaster Engineering Competition (Python, Django)\
 The project idea was to speed up checkout times in our cafeteria and also cut down on food waste. Our idea involves kiosks, portion size meters and algorithms, along with personalized order recommendations tailored to the user based on past orders and with facial recognition software for faster login times to the kiosk.
 
