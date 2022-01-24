@@ -3,6 +3,9 @@ A Selection of Programming Project that I have worked on since I have started pr
 
 Index
 
+Quantum K-Nearest Neighbours (2021)\
+The project idea was to make a K-nearest Neighbour (KNN) algorithm, a commonly used classification algorithm in machine learning, in both classical computing as well as quantum computing and compare the run time speeds to see if there is an advantage of using quantum computing for this algorithm. Following the research paper in the folder, the quantum computing algorithm of KNN was created and tested on small number, as well as the classical computing algorithm. Will varying the size of the training data set, it was found that the quantum KNN did provide a speed up with bigger training data sets, and this is believe to be due to the use of superposition with the data set. Coded in python, in a juptyer notebook file.
+
 Heart-At-Rest for Delta Hacks VII (2021)\
 The project idea was to transition seniors from recording blood pressure data in journals to online. We created a mock online website to show our idea of how it would look alone with leveraging AI in order to run analysis on the data that would be inputted to detect things such as the risk of heart attacks in order to catch these potentially fatal events before they happen. We also came up with idea of extenting this project where the data would be shared with doctors immediately, with the paitents consent, so that doctors would be able to contact them if they think there are immediate problems and even be informed by the system if our AI believe the data should be reviewed, hopefully allowing for earlier detection of potentionally dangerous conditions. 
 
